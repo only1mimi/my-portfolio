@@ -1,2 +1,2 @@
-# my-portfolio
-My personal cybersecurity and IT portfolio
+# my potfolio
+My personal portfolio
